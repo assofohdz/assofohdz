@@ -2,6 +2,11 @@
 
 I love making things flow through tech. All the way from a to z. 
 
+Since I took a masters in informatics[^DTU] I've been a developer, an architect, a scrum master and a project manager.
+
+
+[^DTU]: Graduated 2008
+
 <!--
 **assofohdz/assofohdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
