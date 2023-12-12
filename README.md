@@ -1,4 +1,6 @@
-### Hi there 👋
+# Everything-as-Code, even my profile!👋
+
+I love making things flow through tech. All the way from a to z. 
 
 <!--
 **assofohdz/assofohdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
